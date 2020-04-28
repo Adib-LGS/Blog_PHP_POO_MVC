@@ -1,1 +1,2 @@
 # Blog_PHP_POO_MVC
+ First test to create Blog width ADD, SUPP, READ ARTICLES && COMMENTS FUNCTIONALITY
